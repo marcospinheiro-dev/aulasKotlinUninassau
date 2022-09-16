@@ -1,0 +1,15 @@
+Objetos, Classes, Métodos e Atributos
+Função != método
+A função nem sempre está numa classe.
+-------------------------------------------------
+O(n) - 1 "for"
+O(n^2) - 2 "for"
+O(n^3) - 3 "for"
+-------------------------------------------------
+Questão 1: (Entregar domingo 18/09/22)
+Imagine o seguinte cenário: Um array contendo cotações do dólar ao fechamento de cada dia
+[5.12, 4.80, 4.60, 5.20, 3.50, 5.00]
+dia1   dia2  dia3 ...........  dia6
+construa um algoritmo que consiga retornar o melhor dia para comprar, o melhor dia para vender
+para que seja possível o maior ganho.
+Considere tbm q n pode vender antes de comprar.
